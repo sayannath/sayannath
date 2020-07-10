@@ -14,11 +14,11 @@ From **collecting to data till deploying it in AWS/Heroku** is my job. I love my
 
 ## 🔭 I’m currently working on
 <br>
-* I am Machine Learning Engineer and an Android Developer in [@DSCKIIT](https://www.dsckiit.tech). From collecting ideas to deploy it is my job in [@DSCKIIT](https://dsckiit.tech/). Projects are [here](https://www.github.com/dsckiit)
+* I am Machine Learning Engineer and an Android Developer in [@DSCKIIT](https://www.dsckiit.tech). From collecting ideas to deploy it is my job in [@DSCKIIT]         (https://dsckiit.tech/). Projects are [here](https://www.github.com/dsckiit)
 <br>
-* I am Deep Learning Reseacher at [IoT Lab KIIT](https://www.instagram.com/iotkiit/). I read research papers and find new ways to solve problems using Deep Learning.
+* I am Deep Learning Reseacher at [IoT Lab KIIT](https://www.instagram.com/iotkiit/). I read research papers and find new ways to solve problems using Deep           Learning.
 <br>
-* I am a Machine Learning Engineer at [@KIIT ACM](https://www.instagram.com/kiitacm/) Society. From collecting ideas to deploy it is my job in [@KIIT ACM](https://www.instagram.com/kiitacm/).
+* I am a Machine Learning Engineer at [@KIIT ACM](https://www.instagram.com/kiitacm/) Society. From collecting ideas to deploy it is my job in                         [@KIIT ACM](https://www.instagram.com/kiitacm/).
 <br>
 ## 🌱 I’m currently learning
 <br>
@@ -32,7 +32,7 @@ From **collecting to data till deploying it in AWS/Heroku** is my job. I love my
 <br>
 ## 📫 How to reach me:
 <br>
-My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)
+My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 📷 Instagram: [@sayannath235](https://www.instagram.com/sayannath235/)<br>
 🐤 Twitter: [@SayanNa20204009](https://twitter.com/SayanNa20204009)<br>
 🧳 LinkedIn: [Sayan Nath](https://www.linkedin.com/in/sayan-nath-15a989182/)
