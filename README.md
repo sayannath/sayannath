@@ -7,14 +7,30 @@ I started programming when I was in class 7. I wish to work in a **FANG** compan
 **My job is also to do complex things in a simple way**.
 
 
-## 🔭 I’m currently working on:
+## 🔭 I’m currently working on
 
 * I am Machine Learning Engineer and an Android Developer in [@DSCKIIT](https://dsckiit.tech/). From collecting ideas to deploy it is my job in [@DSCKIIT](https://dsckiit.tech/). Projects are [here](https://www.github.com/dsckiit)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+* I am Deep Learning Reseacher at [IoT Lab KIIT](https://www.instagram.com/iotkiit/). I read research papers and find new ways to solve problems using Deep Learning.
+<br>
+* I am a Machine Learning Engineer at [@KIIT ACM](https://www.instagram.com/kiitacm/) Society. From collecting ideas to deploy it is my job in [@KIIT ACM](https://www.instagram.com/kiitacm/).
+<br>
+## 🌱 I’m currently learning
+
+* I am exploring and learning more things in the domain of Deep Learning with [Tensorflow2.0](https://www.tensorflow.org). I have some experience with Machine Learning and Deep Learning. I am focusing more to dp end to end projects on Machine Learning and Deep Learning.
+<br> 
+* Engaged in some projects in the domain of Deep Learning and Android Developement. You can find my work [here](https://github.com/sayannath?tab=repositories)
+
+## 👯 I’m looking to collaborate on
+
+* For doing projects in the field of healthcare.
+<br>
+## 📫 How to reach me: ...
+My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)
+📷 Instagram: [@sayannath235](https://www.instagram.com/sayannath235/)<br>
+🐤 Twitter: [@SayanNa20204009](https://twitter.com/SayanNa20204009)<br>
+🧳 LinkedIn: [Sayan Nath](https://www.linkedin.com/in/sayan-nath-15a989182/)
+
+## ⚡ Fun fact: ...
+* I am just 19.
+
