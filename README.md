@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**sayannath/sayannath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT student at KIIT University.
 
-Here are some ideas to get you started:
+I started programming when I was in class 7. I wish to work in a FANG company in future. I work with tech which excites me. I am a Machine Learning Engineer as well as Android Developer. I love to play with API. From collecting to data till deploying it in AWS/Heroku is my job. I love my job :)
+My job is also to do complex things in a simple way.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
