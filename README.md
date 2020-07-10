@@ -38,6 +38,6 @@ My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 🧳 LinkedIn: [Sayan Nath](https://www.linkedin.com/in/sayan-nath-15a989182/)
 <br>
 
-## ⚡ Fun fact: ...
+## ⚡ Fun fact:
 * I am just 19.
 
