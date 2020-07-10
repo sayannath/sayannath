@@ -27,8 +27,8 @@ From **collecting to data till deploying it in AWS/Heroku** is my job. I love my
 
 ## 👯 I’m looking to collaborate on
 
-* For doing projects in the field of **Healthcare**.
 * For doing projects for my **Country 🇮🇳**.
+* For doing projects in the field of **Healthcare**.
 
 ## 📫 How to reach me:
 
@@ -36,7 +36,6 @@ My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 📷 Instagram: [@sayannath235](https://www.instagram.com/sayannath235/)<br>
 🐤 Twitter: [@SayanNa20204009](https://twitter.com/SayanNa20204009)<br>
 🧳 LinkedIn: [Sayan Nath](https://www.linkedin.com/in/sayan-nath-15a989182/)
-<br>
 <br>
 
 ## ⚡ Fun fact: ...
