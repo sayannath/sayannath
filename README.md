@@ -23,11 +23,12 @@ From **collecting to data till deploying it in AWS/Heroku** is my job. I love my
 
 * I am exploring and learning more things in the domain of Deep Learning with [Tensorflow2.0](https://www.tensorflow.org). I have some experience with Machine Learning and Deep Learning. I am focusing more to d0 end to end projects on Machine Learning and Deep Learning.
 
-* Engaged in some projects in the domain of Deep Learning and Android Developement. You can find my work [here](https://github.com/sayannath?tab=repositories)
+* Engaged in some projects in the domain of Deep Learning and Android Developement. You can find my work [here](https://github.com/sayannath?tab=repositories).
 
 ## 👯 I’m looking to collaborate on
 
 * For doing projects in the field of **Healthcare**.
+* For doing projects for my **Country 🇮🇳**.
 
 ## 📫 How to reach me:
 
