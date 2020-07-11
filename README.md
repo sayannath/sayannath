@@ -1,6 +1,6 @@
 # Hi there Sayan 👋
 
-<img src="banner-Github.png" />
+(https://github.com/sayannath/sayannath/blob/master/banner-Github.png)
 
 I am an **IT** student at **KIIT University**.
 
