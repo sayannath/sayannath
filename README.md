@@ -1,5 +1,6 @@
 # Hi there Sayan 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=sayannath&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ![](https://github.com/sayannath/sayannath/blob/master/banner-Github.png)
 
@@ -44,6 +45,3 @@ My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 
 ## ⚡ Fun fact:
 * I am just 19.
-
-<img src="https://github-readme-stats.vercel.app/api?username=sayannath&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
