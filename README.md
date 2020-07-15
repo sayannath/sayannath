@@ -45,5 +45,3 @@ My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 
 ## ⚡ Fun fact:
 * I am just 19.
-
-<img src ="https://profile-summary-for-github.com/user/sayannath">
