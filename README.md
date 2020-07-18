@@ -33,7 +33,10 @@ From **collecting to data till deploying it in AWS/Heroku** is my job. I love my
 ## 👯 I’m looking to collaborate on
 
 * For doing projects for my **Country 🇮🇳**.
+* For doing **Research Papers**.
 * For doing projects in the field of **Healthcare**.
+* For doing projects on **Machine Learning and Deep Leanring with Tensorflow**.
+* For **Flutter/Android** Projects.
 
 ## 📫 How to reach me:
 
