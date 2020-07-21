@@ -1,7 +1,6 @@
 # Hi there Sayan 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=sayannath&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src ="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 ![](https://github.com/sayannath/sayannath/blob/master/banner-Github.png)
 
