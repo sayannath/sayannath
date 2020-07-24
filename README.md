@@ -1,15 +1,17 @@
 # Hi there Sayan 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayannath&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannath&theme=dark&hide_langs_below=1" float:right>
-
 <a href="https://github.com/sayannath">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannath&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/sayannath">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayannath&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
 </a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 ![](https://github.com/sayannath/sayannath/blob/master/banner-Github.png)
 
@@ -57,9 +59,3 @@ My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 
 ## ⚡ Fun fact:
 * I am just 20.
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
