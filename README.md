@@ -7,12 +7,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayannath&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
 ![](https://github.com/sayannath/sayannath/blob/master/banner-Github.png)
 
 I am an **IT** student at **KIIT University**.
@@ -59,3 +53,9 @@ My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 
 ## ⚡ Fun fact:
 * I am just 20.
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
