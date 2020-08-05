@@ -53,6 +53,7 @@ My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 
 ## ⚡ Fun fact:
 * I am just 20.
+* I solve LeetCode questions.
 
 <div align="center">
 
