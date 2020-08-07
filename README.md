@@ -1,4 +1,4 @@
-# Hi there Sayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+# Hi there Sayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 <a href="https://github.com/sayannath">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannath&theme=dark&hide_langs_below=1" />
