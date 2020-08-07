@@ -7,6 +7,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayannath&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayannath" alt="devded" /> </p>
+
 ![](https://github.com/sayannath/sayannath/blob/master/banner-Github.png)
 
 I am an **IT** student at **KIIT University**.
