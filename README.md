@@ -65,6 +65,8 @@ From **collecting to data till deploying it in AWS/Heroku** is my job. I love my
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayannath&show_icons=true&theme=dark&line_height=27" alt="Sayan's github stats"/>
 </a>
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayannath" alt="devded" /> </p>
 
 ## 📫 How to reach me:
