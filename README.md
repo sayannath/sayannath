@@ -30,7 +30,7 @@ I started programming when I was in class 7. I wish to work in a **FAANG** compa
 I love to play with **API** as well. 
 <br>
 <br>
-From **collecting to data till deploying it in AWS/Heroku** is my job. I love my job :)
+From **collecting to data till deploying it in AWS/Digital Ocean/Heroku** is my job. I love my job :)
 <br>
 <br>
 **My job is also to do complex things in a simple way**.
