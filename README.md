@@ -1,6 +1,6 @@
 # Hello, I am Sayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-![](https://github.com/sayannath/sayannath/blob/master/banner-Github.png)
+![](https://activity-graph.herokuapp.com/graph?username=sayannath&theme=dracula)
 
 ### Languages and Tools:
 
