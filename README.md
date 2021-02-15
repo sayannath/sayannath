@@ -23,9 +23,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br>
 <br><br>
 
-I am an **IT** student at **KIIT University**.
-
-I started programming when I was in class 7. I wish to work in a **FAANG** company in future. I work with tech which excites me. I am a **Machine Learning Engineer**, **Backend Developer** as well as **Android Developer**.
+I am Sayan Nath. I am a second-year undergraduate student at **KIIT University**. I am amongst the **Top Contributors in Github from India** currently, my **Rank is #136**. I am an **Aspiring Junior Data Scientist at Codebugged AI** currently leading the **Codechef KIIT Chapter Team** as the **President**, one of the **Core Team Member of DSCKIIT** and **Machine Learning Lead at IoT Lab**. My other interests aside from **Machine Learning** are **Backend Development** and also make fun apps in **Flutter**.
 <br>
 I love to play with **API** as well. 
 <br>
