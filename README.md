@@ -72,6 +72,7 @@ My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 📷 Instagram: [@sayannath235](https://www.instagram.com/sayannath235/)<br>
 🐤 Twitter: [@SayanNa20204009](https://twitter.com/SayanNa20204009)<br>
 🧳 LinkedIn: [Sayan Nath](https://www.linkedin.com/in/sayan-nath-15a989182/)
+🖊 Medium: [Sayan Nath](https://sayannath235.medium.com/)
 <br>
 
 ## ⚡ Fun fact:
