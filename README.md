@@ -57,7 +57,7 @@ From **collecting to data till deploying it in AWS/Digital Ocean/Heroku** is my 
 
 <a href="https://github.com/sayannath">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannath&theme=dark&hide_langs_below=1" />
-</a>
+</a><br>
 <a href="https://github.com/sayannath">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayannath&show_icons=true&theme=dark&line_height=27" alt="Sayan's github stats"/>
 </a>
