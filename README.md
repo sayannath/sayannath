@@ -2,6 +2,28 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=sayannath&theme=dracula)
 
+## About
+
+I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am an aspiring Junior Data Scientist at [Codebugged AI](https://codebugged.com/), presently leading the [Codechef KIIT Chapter Team](https://www.codechef.com/campus_chapter/KIIT) as the President, one of the Core Team Member of [DSCKIIT](http://www.dsckiit.tech) and Machine Learning Lead at [IoT Lab](http://www.iotkiit.in). My other interests aside from Machine Learning are Backend Development, DevOps and Flutter.
+
+<table>
+  <tr>
+      <td><a href="https://github.com/sayannath"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="https://twitter.com/SayanNa20204009"><img src="https://img.shields.io/twitter/follow/SayanNa20204009?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://www.linkedin.com/in/sayannath235"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:sayannath235@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
+## Timeline
+
+- Junior Data Scientist and Backend Developer, Codebugged AI (August, 2020 - Present)
+- President, Codechef KIIT Chapter (October 2020 - Present)
+- Core Team Member, DSC KIIT (September 2019 - Present)
+- ML Team Lead, IoT Lab Kiit (January 2020 - Present)
+- Flutter Intern, Vulmiqi (July, 2020 - November, 2020)
+- Machine Learning Intern, Kyrion Technologies (June, 2019 - July, 2019)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -21,48 +43,28 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br>
-<br><br>
-
-Hello Guys! I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I am amongst the top contributors in Github from India, and my rank is #136. I am an aspiring Junior Data Scientist at Codebugged AI, presently leading the Codechef KIIT Chapter Team as the President, one of the Core Team Member of DSCKIIT and Machine Learning Lead at IoT Lab. My other interests aside from Machine Learning are Backend Development, DevOps and Flutter. 
-<br>
-I love to play with **API** as well. 
-<br>
-<br>
-From **collecting to data till deploying it in AWS/Digital Ocean/Heroku** is my job. I love my job :)
-<br>
-<br>
-**My job is also to do complex things in a simple way**.
-
 
 ## 🔭 I’m currently working on
-* I am Machine Learning Engineer and an Android Developer in [@DSCKIIT](https://www.dsckiit.tech). From collecting ideas to deploy it is my job in [@DSCKIIT](https://dsckiit.tech/). Projects are [here](https://www.github.com/dsckiit)
-
-* I am Deep Learning Reseacher at [IoT Lab KIIT](https://www.instagram.com/iotkiit/). I read research papers and find new ways to solve problems using Deep           Learning.
-
-* I am a Machine Learning Engineer at [@KIIT ACM](https://www.instagram.com/kiitacm/) Society. From collecting ideas to deploy it is my job in [@KIIT ACM](https://www.instagram.com/kiitacm/).
+* 3D Segmentation on Medical Images
+* Model Optimisation and Quantisation with Tensorflow
+* Flutter to integrate TF-Lite Files
 
 ## 🌱 I’m currently learning
 
 * I am exploring and learning more things in the domain of Deep Learning with [Tensorflow2.0](https://www.tensorflow.org). I have some experience with Machine Learning and Deep Learning. I am focusing more to d0 end to end projects on Machine Learning and Deep Learning.
 
-* Engaged in some projects in the domain of Deep Learning and Android Developement. You can find my work [here](https://github.com/sayannath?tab=repositories).
+* Engaged in some projects in the domain of Deep Learning,Machine Learning, Backend Developement and Flutter. You can find my work [here](https://github.com/sayannath?tab=repositories).
 
 ## 👯 I’m looking to collaborate on
 
-* For doing projects for my **Country 🇮🇳**.
+* For doing projects on **Computer Vision (especially on Medical Science)**.
 * For doing **Research Papers**.
-* For doing projects in the field of **Healthcare**.
-* For doing projects on **Machine Learning and Deep Leanring with Tensorflow**.
+* For doing projects related to **TF-Lite**.
 * For **Flutter/Android** Projects.
 
 <a href="https://github.com/sayannath">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannath&theme=dark&hide_langs_below=1" />
-</a><br>
-<a href="https://github.com/sayannath">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayannath&show_icons=true&theme=dark&line_height=27" alt="Sayan's github stats"/>
 </a>
-
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayannath" alt="devded" /> </p>
 
@@ -73,14 +75,9 @@ My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
 🐤 Twitter: [@SayanNa20204009](https://twitter.com/SayanNa20204009)<br>
 🧳 LinkedIn: [Sayan Nath](https://www.linkedin.com/in/sayan-nath-15a989182/)<br>
 🖊 Medium: [sayannath235](https://sayannath235.medium.com/)
-<br>
-
-## ⚡ Fun fact:
-* I am just 20.
-* I solve LeetCode questions.
 
 <div align="center">
-
+  
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
