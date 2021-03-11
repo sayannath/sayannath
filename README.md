@@ -47,7 +47,7 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
 ## 🔭 I’m currently working on
 * 3D Segmentation on Medical Images
 * Model Optimisation and Quantisation with Tensorflow
-* Flutter to integrate TF-Lite Files
+* Flutter to integrate TF-Lite Models
 
 ## 🌱 I’m currently learning
 
