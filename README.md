@@ -51,7 +51,7 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
 
 ## 🌱 I’m currently learning
 
-* I am exploring and learning more things in the domain of Deep Learning with [Tensorflow2.0](https://www.tensorflow.org). I have some experience with Machine Learning and Deep Learning. I am focusing more to d0 end to end projects on Machine Learning and Deep Learning.
+* I am exploring and learning more things in the domain of Deep Learning with [Tensorflow](https://www.tensorflow.org). I have some experience with Machine Learning and Deep Learning. I am focusing more to do end to end projects on Machine Learning and Deep Learning.
 
 * Engaged in some projects in the domain of Deep Learning,Machine Learning, Backend Developement and Flutter. You can find my work [here](https://github.com/sayannath?tab=repositories).
 
