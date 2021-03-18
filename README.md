@@ -66,7 +66,8 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayannath&show_icons=true&theme=dark&line_height=27" alt="Sayan's github stats"/>
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayannath" alt="devded" /> </p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sayannath" alt="devded" /> </p>
 
 ## 📫 How to reach me:
 
