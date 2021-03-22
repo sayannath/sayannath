@@ -71,7 +71,7 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
 
 ## 📫 How to reach me:
 
-My portfolio: [👨 Sayan Nath](https://sayan-nath.web.app/)<br>
+My portfolio: [👨 Sayan Nath](https://sayannath.biz/)<br>
 📷 Instagram: [@sayannath235](https://www.instagram.com/sayannath235/)<br>
 🐤 Twitter: [@SayanNa20204009](https://twitter.com/SayanNa20204009)<br>
 🧳 LinkedIn: [Sayan Nath](https://www.linkedin.com/in/sayan-nath-15a989182/)<br>
