@@ -2,6 +2,8 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=sayannath&theme=dracula)
 
+<img height=200 width=350 src="avatar.png">
+
 ## About
 
 I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am an aspiring Junior Data Scientist at [Codebugged AI](https://codebugged.com/), presently leading the [Codechef KIIT Chapter Team](https://www.codechef.com/campus_chapter/KIIT) as the President, one of the Core Team Member of [DSCKIIT](http://www.dsckiit.tech) and Machine Learning Lead at [IoT Lab](http://www.iotkiit.in). My other interests aside from Machine Learning are Backend Development, DevOps and Flutter.
