@@ -64,9 +64,14 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
 * For doing projects related to **TF-Lite**.
 * For **Flutter/Android** Projects.
 
-<a href="https://github.com/sayannath">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayannath&show_icons=true&theme=dark&line_height=27" alt="Sayan's github stats"/>
-</a>
+## Github Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayannath">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sayannath&show_icons=true&theme=light&line_height=27" alt="Sayan's github stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannath&layout=compact&theme=light"/>
+
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sayannath" alt="devded" /> </p>
