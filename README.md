@@ -1,6 +1,6 @@
 # Hello, I am Sayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-![](https://activity-graph.herokuapp.com/graph?username=sayannath&theme=dracula)
+![](https://activity-graph.herokuapp.com/graph?username=sayannath&theme=react-dark&hide_border=true&area=true)
 
 <img height=200 width=350 src="avatar.png">
 
