@@ -55,7 +55,7 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayannath">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayannath&show_icons=true&theme=light&line_height=27" alt="Sayan's github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayannath&count_private=true&show_icons=true&theme=light" alt="Sayan's github stats"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannath&layout=compact&theme=light"/>
 
