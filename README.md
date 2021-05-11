@@ -19,6 +19,7 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
 
 ## Timeline
 
+- Backend Developer, Presence (May, 2021 - Present)
 - Data Science Intern, Juppiter AI Labs (April, 2021 - Present)
 - Data Scientist, Codebugged AI (August, 2020 - Present)
 - President, Codechef KIIT Chapter (October 2020 - Present)
