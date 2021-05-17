@@ -66,18 +66,16 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
 
 ## 👨 Social
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-
-
+1. [LinkedIn](https://www.linkedin.com/in/sayannath235/)
+2. [Portfolio](https://sayannath.biz/)
+3. [YouTube](https://www.youtube.com/channel/UCOk-VYzGNeCHrMOzGmoWg2A)
+4. [CodeChef](https://www.codechef.com/users/sayannath235)
+5. [Instagram](https://www.instagram.com/sayannath235/)
+6. [Twitter](https://twitter.com/SayanNa20204009)
+7. [FaceBook](https://www.facebook.com/sayan.nath.549/)
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
+Show some ❤️ by starring some of the repositories!
 
 </div>
