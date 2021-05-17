@@ -34,25 +34,25 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
 Git, GitHub & GitLab
 
 ### Programming Languages
-Java, Python, Dart and JavaScript
+>Java, Python, Dart and JavaScript
 
 ### Machine Learning Framwork
-Tensorflow, Keras, scikit-learn, Pytorch(Currenly Learning)
+>Tensorflow, Keras, scikit-learn, Pytorch(Currenly Learning)
 
 ### Web Development
-NodeJS, Express, Flask, SpringBoot(Currenly Learning)
+>NodeJS, Express, Flask, SpringBoot(Currenly Learning)
 
 ### DataBase
-MongoDB, Postgres, MySQL
+>MongoDB, Postgres, MySQL
 
 ### DevOps
-Docker
+>Docker
 
 ### Cloud
-Digital Ocean
+>Digital Ocean
 
 ### App Development
-Flutter, Kotlin(Currenly Learning)
+>Flutter, Kotlin(Currenly Learning)
 
 
 ## 🔭 I’m currently working on
