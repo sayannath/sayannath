@@ -6,7 +6,7 @@
 
 ## About
 
-I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am an aspiring Junior Data Scientist at [Codebugged AI](https://codebugged.com/), presently leading the [Codechef KIIT Chapter Team](https://www.codechef.com/campus_chapter/KIIT) as the President, one of the Core Team Member of [DSCKIIT](http://www.dsckiit.tech) and Machine Learning Lead at [IoT Lab](http://www.iotkiit.in). My other interests aside from Machine Learning are Backend Development, DevOps and Flutter.
+I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am an aspiring Junior Data Scientist at [Codebugged AI](https://codebugged.com/), presently leading the [Codechef KIIT Chapter Team](https://www.codechef.com/campus_chapter/KIIT) as the President, one of the Core Team Member of [DSCKIIT](http://www.dsckiit.tech) and Machine Learning Lead at [IoT Lab](http://www.iotkiit.in). My other interests aside from Machine Learning are Backend Development, DevOps and Flutter.
 
 <table>
   <tr>
@@ -19,6 +19,7 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
 
 ## Timeline
 
+- GSoC Student, Tensorflow Organisation (May,2021 - Present)
 - Backend Developer, Presence (May, 2021 - Present)
 - Data Science Intern, Juppiter AI Labs (April, 2021 - Present)
 - Data Scientist, Codebugged AI (August, 2020 - Present)
@@ -31,7 +32,7 @@ I am Sayan Nath. I am a second-year undergraduate student at KIIT University. I 
 ## Languages and Tools: 
 
 ### Version Control System
-Git, GitHub & GitLab
+>Git, GitHub & GitLab
 
 ### Programming Languages
 >Java, Python, Dart and JavaScript
