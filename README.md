@@ -62,10 +62,10 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 * Flutter to integrate TF-Lite Models
 
 ## 🌱 I’m currently learning
-
-* I am exploring and learning more things in the domain of Deep Learning with [Tensorflow](https://www.tensorflow.org). I have some experience with Machine Learning and Deep Learning. I am focusing more to do end to end projects on Machine Learning and Deep Learning.
-
-* Engaged in some projects in the domain of Deep Learning,Machine Learning, Backend Developement and Flutter. You can find my work [here](https://github.com/sayannath?tab=repositories).
+* Semi-Supervised Segmentation
+* Distributed training with Tensorflow with Docker
+* Tensor-RT
+* Quantisation and Weight Pruning
 
 ## 👯 I’m looking to collaborate on
 
