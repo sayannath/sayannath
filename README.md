@@ -64,6 +64,7 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 * Distributed training with Tensorflow with Docker
 * Tensor-RT
 * Quantisation and Weight Pruning
+* GANs
 
 ## 👯 I’m looking to collaborate on
 
