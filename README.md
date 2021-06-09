@@ -39,7 +39,7 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 >Tensorflow, Keras, scikit-learn, Pytorch(Currenly Learning)
 
 ### Web Development
->NodeJS, Express, Flask, SpringBoot(Currenly Learning)
+>NodeJS, Express, Flask, Golang(Currenly Learning)
 
 ### DataBase
 >MongoDB, Postgres, MySQL
