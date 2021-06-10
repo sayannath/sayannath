@@ -17,15 +17,15 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 
 ## Timeline
 
-- GSoC Student, Tensorflow Organisation (May,2021 - Present)
-- Backend Developer, Presence (May, 2021 - Present)
-- Data Science Intern, Juppiter AI Labs (April, 2021 - Present)
-- Data Scientist, Codebugged AI (August, 2020 - Present)
-- President, Codechef KIIT Chapter (October 2020 - Present)
-- Core Team Member, DSC KIIT (September 2019 - Present)
-- ML Team Lead, IoT Lab Kiit (January 2020 - Present)
-- Flutter Intern, Vulmiqi (July, 2020 - November, 2020)
-- Machine Learning Intern, Kyrion Technologies (June, 2019 - July, 2019)
+- GSoC Student, [TensorFlow Organisation](https://github.com/tensorflow) (May,2021 - Present)
+- Backend Developer, [Presence](https://www.presence.is/stealth) (May, 2021 - Present)
+- Data Science Intern, [Juppiter AI Labs](https://juppiterailabs.com/) (April, 2021 - Present)
+- Data Scientist, [Codebugged AI](https://codebugged.com/) (August, 2020 - Present)
+- President, [Codechef KIIT Chapter](https://www.codechef.com/campus_chapter/KIIT) (October 2020 - Present)
+- Core Team Member, [DSC-KIIT](http://dsckiit.tech/) (September 2019 - Present)
+- ML Team Lead, [IoT Lab KiiT](https://iotkiit.in) (January 2020 - Present)
+- Flutter Intern, [Vulmiqi](https://vulmiqi.com/) (July, 2020 - November, 2020)
+- Machine Learning Intern, [Kyrion Technologies](https://kyrion.in/) (June, 2019 - July, 2019)
 
 ## Languages and Tools: 
 
