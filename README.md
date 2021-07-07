@@ -93,7 +93,7 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 3. [YouTube](https://www.youtube.com/channel/UCOk-VYzGNeCHrMOzGmoWg2A)
 4. [CodeChef](https://www.codechef.com/users/sayannath235)
 5. [Instagram](https://www.instagram.com/sayannath235/)
-6. [Twitter](https://twitter.com/sayannath2350)
+6. [Twitter](https://twitter.com/the_sayannath)
 7. [FaceBook](https://www.facebook.com/sayan.nath.549/)
 
 <div align="center">
