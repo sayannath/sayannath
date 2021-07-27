@@ -4,7 +4,7 @@
 
 ## About
 
-I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am an aspiring Junior Data Scientist at [Codebugged AI](https://codebugged.com/), presently leading the [Codechef KIIT Chapter Team](https://www.codechef.com/campus_chapter/KIIT) as the President, one of the Core Team Member of [DSCKIIT](http://www.dsckiit.tech) and Machine Learning Lead at [IoT Lab](http://www.iotkiit.in). My other interests aside from Machine Learning are Backend Development, DevOps and Flutter.
+I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am an aspiring Junior Data Scientist at [Codebugged AI](https://codebugged.com/), presently leading the [Codechef KIIT Chapter Team](https://www.codechef.com/campus_chapter/KIIT) as the President, and Lead of [DSCKIIT](http://www.dsckiit.tech). My other interests aside from Machine Learning are Backend Development, DevOps and Flutter.
 
 <table>
   <tr>
@@ -24,7 +24,7 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 - Data Scientist, [Codebugged AI](https://codebugged.com/) (August, 2020 - Present)
 - President, [Codechef KIIT Chapter](https://www.codechef.com/campus_chapter/KIIT) (October 2020 - Present)
 - Core Team Member, [DSC-KIIT](http://dsckiit.tech/) (September 2019 - Present)
-- ML Team Lead, [IoT Lab KiiT](https://iotkiit.in) (January 2020 - Present)
+- ML Team Lead, [IoT Lab KiiT](https://iotkiit.in) (January 2020 - July 2021)
 - Flutter Intern, [Vulmiqi](https://vulmiqi.com/) (July, 2020 - November, 2020)
 - Machine Learning Intern, [Kyrion Technologies](https://kyrion.in/) (June, 2019 - July, 2019)
 
