@@ -1,6 +1,4 @@
-# Hello, I am Sayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-
-![](https://activity-graph.herokuapp.com/graph?username=sayannath&theme=react-dark&hide_border=true&area=true)
+<img src="github-banner.png">
 
 ## About
 
@@ -76,6 +74,8 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 
 ## Github Stats
 
+![](https://activity-graph.herokuapp.com/graph?username=sayannath&theme=react-dark&hide_border=true&area=true)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayannath">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sayannath&count_private=true&show_icons=true&theme=light" alt="Sayan's github stats"/>
@@ -95,9 +95,3 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 5. [Instagram](https://www.instagram.com/sayannath235/)
 6. [Twitter](https://twitter.com/the_sayannath)
 7. [FaceBook](https://www.facebook.com/sayan.nath.549/)
-
-<div align="center">
-  
-Show some ❤️ by starring some of the repositories!
-
-</div>
