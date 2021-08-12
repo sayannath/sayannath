@@ -7,7 +7,7 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 <table>
   <tr>
       <td><a href="https://github.com/sayannath"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-    <td><a href="https://twitter.com/sayannath2350"><img src="https://img.shields.io/twitter/follow/the_sayannath?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://twitter.com/the_sayannath"><img src="https://img.shields.io/twitter/follow/the_sayannath?label=Twitter&style=social" alt="Twitter"></a></td>
     <td><a href="https://www.linkedin.com/in/sayannath235"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
     <td><a href="mailto:sayannath235@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
