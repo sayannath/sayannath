@@ -26,7 +26,7 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 - Flutter Intern, [Vulmiqi](https://vulmiqi.com/) (July, 2020 - November, 2020)
 - Machine Learning Intern, [Kyrion Technologies](https://kyrion.in/) (June, 2019 - July, 2019)
 
-## Languages and Tools: 
+<!-- ## Languages and Tools: 
 
 ### Version Control System
 >Git, GitHub & GitLab
@@ -50,7 +50,7 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 >Digital Ocean
 
 ### App Development
->Flutter, Kotlin(Currenly Learning)
+>Flutter, Kotlin(Currenly Learning) -->
 
 
 ## 🔭 I’m currently working on
