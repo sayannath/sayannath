@@ -21,7 +21,7 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 - Data Science Intern, [Juppiter AI Labs](https://juppiterailabs.com/) (April, 2021 - Present)
 - Data Scientist, [Codebugged AI](https://codebugged.com/) (August, 2020 - Present)
 - President, [Codechef KIIT Chapter](https://www.codechef.com/campus_chapter/KIIT) (October 2020 - August, 2021)
-- Core Team Member, [DSC-KIIT](http://dsckiit.tech/) (September 2019 - Present)
+- Lead, [GDSC-KIIT](http://dsckiit.in/) (September 2019 - Present)
 - ML Team Lead, [IoT Lab KiiT](https://iotkiit.in) (January 2020 - July 2021)
 - Flutter Intern, [Vulmiqi](https://vulmiqi.com/) (July, 2020 - November, 2020)
 - Machine Learning Intern, [Kyrion Technologies](https://kyrion.in/) (June, 2019 - July, 2019)
