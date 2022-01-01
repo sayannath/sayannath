@@ -2,7 +2,7 @@
 
 ## About
 
-I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am an aspiring Junior Data Scientist at [Codebugged AI](https://codebugged.com/), presently leading the [Codechef KIIT Chapter Team](https://www.codechef.com/campus_chapter/KIIT) as the President, and Lead of [GDSC KIIT](http://www.dsckiit.tech). My other interests aside from Machine Learning are Backend Development, DevOps and Flutter.
+I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am a Machine Learning Engineer at [Blend](http://blend.to), presently leading the team of [GDSC KIIT](https://dsckiit.in) Team and Former President at [Codechef KIIT Chapter Team](https://www.codechef.com/campus_chapter/KIIT). My other interests aside from Machine Learning are Backend Development and DevOps.
 
 <table>
   <tr>
