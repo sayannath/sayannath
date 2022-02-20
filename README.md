@@ -13,7 +13,7 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
   </tr>
 </table>
 
-## Timeline
+## 🧭 Timeline
 
 - ML Engineer, [Blend](https://blend.to) (December, 2021 - Present)
 - GSoC Student, [TensorFlow Organisation](https://github.com/tensorflow) (May,2021 - August, 2021)
