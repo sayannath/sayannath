@@ -3,7 +3,7 @@
 
 ## About
 
-I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I am amongst the top contributors in [Github](https://commits.top/india.html) from India. I am a Machine Learning Engineer at [Blend](http://blend.to), presently leading the team of [GDSC KIIT](https://dsckiit.in) Team and Former President at [Codechef KIIT Chapter Team](https://www.codechef.com/campus_chapter/KIIT). My other interests aside from Machine Learning are Backend Development and DevOps.
+Hello! I am Sayan Nath. I am an MSc student and a Research Assistant at the University of Calgary. I have completed my Undergraduate degree at Kalinga Institute of Industrial Technology (KIIT). I did Google Summer of Code in 2021 and 2022 at TensorFlow. I was a Machine Learning Engineer at Scaler, Blend, Codebugged, and Juppiter Labs AI, led the GDSC KIIT, former President of the CodeChef KIIT Chapter and Former Machine Learning Lead at IoT Lab. I was also selected as a Mentor at Google Developer Program Exchange. My other interests aside from Machine Learning are Backend Development and DevOps.
 
 <table>
   <tr>
@@ -15,13 +15,13 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 </table>
 
 ## 🧭 Timeline
-
-- Technical Content Reviewer and Problem Setter Intern, [Scaler](scaler.com) (November 2022 - Present)
+- Research Assistant, [University of Calgary](https://www.ucalgary.ca) (August, 2023 - Present)
+- Technical Content Reviewer and Problem Setter Intern, [Scaler](scaler.com) (November 2022 - August, 2023)
 - GSoC Student, [TensorFlow Organisation](https://github.com/tensorflow) (May 2022 - October 2022)
 - ML Engineer, [Blend](https://blend.to) (October 2021 - July 2022)
 - GSoC Student, [TensorFlow Organisation](https://github.com/tensorflow) (May 2021 - August 2021)
 - Backend Developer, [Presence](https://www.presence.is/beta/) (May 2021 - May 2022)
-- Undergraduate Student Reseacher, [Jadavpur University](http://www.jaduniv.edu.in) (May 2021 - February 2022)
+- Undergraduate Student Researcher, [Jadavpur University](http://www.jaduniv.edu.in) (May 2021 - February 2022)
 - Data Science Intern, [Juppiter AI Labs](https://juppiterailabs.com/) (April 2021 - Present)
 - Data Scientist, [Codebugged AI](https://codebugged.com/) (August 2020 - December 2021)
 - President, [Codechef KIIT Chapter](https://www.codechef.com/campus_chapter/KIIT) (October 2020 - August 2021)
@@ -31,9 +31,10 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 - Machine Learning Intern, [Kyrion Technologies](https://kyrion.in/) (June 2019 - July 2019)
 
 ## 🔭 I’m currently working on
-* 3D Segmentation on Medical Images
+* AutoML and Fairness of Machine Learning models
+* Stable diffusion and Generative AI
 * Model Optimisation and Quantisation with Tensorflow
-* Flutter to integrate TF-Lite Models
+
 
 ## 🌱 I’m currently learning
 * Semi-Supervised Segmentation
@@ -43,7 +44,7 @@ I am Sayan Nath. I am a third-year undergraduate student at KIIT University. I a
 
 ## 👯 I’m looking to collaborate on
 
-* For doing projects on **Computer Vision (especially on Medical Science)**.
+* For doing projects on **Computer Vision**
 * For doing **Research Papers**.
 * For doing projects related to **TF-Lite**.
 
