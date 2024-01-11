@@ -38,10 +38,8 @@ Hello! I am Sayan Nath. I am an MSc student and a Research Assistant at the Univ
 
 
 ## 🌱 I’m currently learning
-* Semi-Supervised Segmentation
-* Distributed training with Tensorflow with Docker
-* GANs
-* JAX
+* Generative AI
+* LLM
 
 ## 👯 I’m looking to collaborate on
 
