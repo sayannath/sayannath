@@ -47,20 +47,6 @@ Hello! I am Sayan Nath. I am an MSc student and a Research Assistant at the Univ
 * For doing **Research Papers**.
 * For doing projects related to **TF-Lite**.
 
-## Github Stats
-
-![](https://activity-graph.herokuapp.com/graph?username=sayannath&theme=react-dark&hide_border=true&area=true)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayannath">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sayannath&count_private=true&show_icons=true&theme=light" alt="Sayan's github stats"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayannath&layout=compact&theme=light"/>
-
-
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sayannath" alt="devded" /> </p>
-
 ## 👨 Social
 
 1. [LinkedIn](https://www.linkedin.com/in/sayannath235/)
