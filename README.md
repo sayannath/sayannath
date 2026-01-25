@@ -4,7 +4,16 @@
 
 ## About
 
-Hello! I am Sayan Nath. I am an MSc student and a Research Assistant at the University of Calgary. I have completed my Undergraduate degree at Kalinga Institute of Industrial Technology (KIIT). I did Google Summer of Code in 2021 and 2022 at TensorFlow. I was a Machine Learning Engineer at Scaler, Blend, Codebugged, and Juppiter Labs AI, led the GDSC KIIT, former President of the CodeChef KIIT Chapter and Former Machine Learning Lead at IoT Lab. I was also selected as a Mentor at Google Developer Program Exchange. My other interests aside from Machine Learning are Backend Development and DevOps.
+Hello! I’m **Sayan Nath**, a **PhD student at the Interactions Lab** and a **Research Assistant at the University of Calgary**. I completed my **MSc at the DISA Lab, University of Calgary**, and earned my undergraduate degree from **Kalinga Institute of Industrial Technology (KIIT)**.
+
+I was a **Google Summer of Code (GSoC) contributor** in **2021 and 2022**, working with **TensorFlow**, where I gained hands-on experience contributing to large-scale machine learning systems and open-source research tooling.
+
+Professionally, I have worked as a **Machine Learning Engineer** at **Scaler, Blend, Codebugged, and Juppiter Labs AI**, focusing on model development, deployment, and production-grade ML pipelines. Alongside industry experience, I have held several leadership roles, including **Lead of GDSC KIIT**, **President of the CodeChef KIIT Chapter**, and **Machine Learning Lead at the IoT Lab**, where I led technical initiatives and mentored students.
+
+I was also selected as a **Mentor for the Google Developer Program Exchange**, supporting developers and students through technical guidance and community engagement.
+
+My research and technical interests primarily lie in **machine learning**, with additional interests in **backend development and DevOps**, particularly in building scalable, reliable, and efficient systems.
+
 
 <table>
   <tr>
@@ -16,8 +25,9 @@ Hello! I am Sayan Nath. I am an MSc student and a Research Assistant at the Univ
 </table>
 
 ## 🧭 Timeline
-- Research Assistant, [University of Calgary](https://www.ucalgary.ca) (August, 2023 - Present)
-- Technical Content Reviewer and Problem Setter Intern, [Scaler](scaler.com) (November 2022 - August, 2023)
+- PhD, [University of Calgary](https://www.ucalgary.ca) (Winter, 2026 - Present)
+- MSc (thesis-based), [University of Calgary](https://www.ucalgary.ca) (Fall, 2023 - Fall, 2025)
+- Developer Advocate Intern, [Scaler](scaler.com) (November 2022 - August, 2023)
 - GSoC Student, [TensorFlow Organisation](https://github.com/tensorflow) (May 2022 - October 2022)
 - ML Engineer, [Blend](https://blend.to) (October 2021 - July 2022)
 - GSoC Student, [TensorFlow Organisation](https://github.com/tensorflow) (May 2021 - August 2021)
@@ -30,22 +40,6 @@ Hello! I am Sayan Nath. I am an MSc student and a Research Assistant at the Univ
 - ML Team Lead, [IoT Lab KiiT](https://iotkiit.in) (January 2020 - July 2021)
 - Flutter Intern, [Vulmiqi](https://vulmiqi.com/) (July 2020 - November 2020)
 - Machine Learning Intern, [Kyrion Technologies](https://kyrion.in/) (June 2019 - July 2019)
-
-## 🔭 I’m currently working on
-* AutoML and Fairness of Machine Learning models
-* Stable diffusion and Generative AI
-* Model Optimisation and Quantisation with Tensorflow
-
-
-## 🌱 I’m currently learning
-* Generative AI
-* LLM
-
-## 👯 I’m looking to collaborate on
-
-* For doing projects on **Computer Vision**
-* For doing **Research Papers**.
-* For doing projects related to **TF-Lite**.
 
 ## 👨 Social
 
