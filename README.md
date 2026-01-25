@@ -1,5 +1,5 @@
 
-![Group 18](https://github.com/sayannath/sayannath/assets/41967348/0fe77856-6cf0-479a-8367-3c0658d3feb4)
+![Group 18](./Gemini_Generated_Image_l67ctfl67ctfl67c.png)
 
 
 ## About
